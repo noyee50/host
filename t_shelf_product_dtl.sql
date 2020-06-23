@@ -1,0 +1,1 @@
+update t_shelf_product_dtl dtl set lk_value ='30000' where uuid = '5f56054d-1535-460e-9aca-cf1b91de9db8';;
